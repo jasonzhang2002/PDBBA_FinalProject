@@ -8,25 +8,44 @@ Directory containing .java, .class, and .jar files related to the analytics of t
 
 Directory containing original obtained from https://dataportal.mt.gov/t/DOASITSDDataPortalPub/views/SABHRSStateEmployeeData/EmployeeDataDashboard?%3Aembed=y&%3AshowAppBanner=false&%3AshowShareOptions=true&%3Adisplay_count=no&%3AshowVizHome=no. Downloaded by simply clicking download with proper filters.
 
-Original Dataset has schema:\n
+Original Dataset has schema:
+
 Department: String
+
 Last Name: String
+
 First Name: String
+
 Position: String
+
 City: String
+
 Base Salary: Double
+
 Total Salary: Double
+
 Payment Rate: String
+
 Year: Int
+
 County: String
+
 Cre By: String
+
 Cre Dt: String
+
 Employee ID: String
+
 First Name: String
+
 Last Name: String
+
 Middle Name: String
+
 Mod By: String
+
 Mod Date: String
+
 Number of Records: Int
 
 
