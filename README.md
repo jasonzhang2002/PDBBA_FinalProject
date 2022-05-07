@@ -8,7 +8,7 @@ Directory containing .java, .class, and .jar files related to the analytics of t
 
 Directory containing original obtained from https://dataportal.mt.gov/t/DOASITSDDataPortalPub/views/SABHRSStateEmployeeData/EmployeeDataDashboard?%3Aembed=y&%3AshowAppBanner=false&%3AshowShareOptions=true&%3Adisplay_count=no&%3AshowVizHome=no. Downloaded by simply clicking download with proper filters.
 
-Original Dataset has schema:
+Original Dataset has schema:\n
 Department: String
 Last Name: String
 First Name: String
@@ -54,7 +54,7 @@ Our goal is to perform some basic analysis on teacher and board of education mem
 
 Things to note: 
 
-<netId> is your NYU netId
+netId refers to your NYU netId
 
 
 1) Cleaning the Data:
